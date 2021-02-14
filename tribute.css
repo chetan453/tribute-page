@@ -1,0 +1,55 @@
+*{
+    margin: 0 0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+div.introduction{
+    height: 40%;
+    width: 450px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div>p{
+    text-align:center;
+}
+h1{
+    color: rgb(131, 44, 182);
+    text-align: center;
+    margin-bottom: 8px;
+} 
+h3{
+    color: rgba(29, 133, 26, 0.705);
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}  
+div.life-history{
+    color:rgb(43, 136, 120);
+    border: gray solid 2px;
+    margin: 4px 2px 2px 2px;
+} 
+.abj{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 10%;
+    height: 200px;
+    border-radius: 50%;
+}
+li{
+    font-size: 20px;
+}
+p.wikipedia{
+    font-size: 17px;
+}
+footer{
+    background-color: white;
+    margin-left:0px;
+    margin-bottom: 0px;
+}
+footer:hover{
+    background-color: yellow;
+}
